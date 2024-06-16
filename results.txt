@@ -1,0 +1,87 @@
+Chicago Bulls vs Atlanta Hawks_ DeMar DeRozan (Assists)_Acima de 5.5_2,02_Winner_24_17/04/2024_14:40
+Chicago Bulls vs Atlanta Hawks_ Dejounte Murray (Rebounds)_Abaixo de 6.5_1,87_Loser_28_17/04/2024_14:41
+Chicago Bulls vs Atlanta Hawks_ Dejounte Murray (Points)_Abaixo de 23.5_1,78_Loser_32_17/04/2024_22:02
+Philadelphia 76ers vs Miami Heat_ Tyrese Maxey (Pts+Rebs+Asts)_Acima de 33.5_1,85_Loser_29_17/04/2024_23:10
+Philadelphia 76ers vs Miami Heat_ Joel Embiid (Pts+Rebs+Asts)_Abaixo de 47.5_1,85_Winner_29_17/04/2024_20:51
+Sacramento Kings vs Golden State Warriors_ Jonathan Kuminga (Points)_Acima de 13.5_1,81_Winner_30_16/04/2024_18:27
+Sacramento Kings vs Golden State Warriors_ Harrison Barnes (Pts+Rebs+Asts)_Acima de 19.5_2,07_Winner_23_17/04/2024_01:08
+Sacramento Kings vs Golden State Warriors_ Draymond Green (Assists)_Acima de 6.5_1,92_Loser_27_16/04/2024_21:07
+Sacramento Kings vs Golden State Warriors_ Draymond Green (Points)_Acima de 7.5_1,91_Winner_27_16/04/2024_18:26
+Sacramento Kings vs Golden State Warriors_ Domantas Sabonis (Rebounds)_Acima de 13.5_2,07_Loser_23_16/04/2024_10:47
+Sacramento Kings vs Golden State Warriors_ De'Aaron Fox (Rebounds)_Abaixo de 5.5_2,02_Winner_24_16/04/2024_22:17
+New Orleans Pelicans vs Los Angeles Lakers_ Rui Hachimura (Pts+Rebs+Asts)_Acima de 19.5_1,85_Loser_29_16/04/2024_15:09
+New Orleans Pelicans vs Los Angeles Lakers_ Brandon Ingram (Points)_Abaixo de 18.5_1,96_Winner_23_16/04/2024_22:23
+Sacramento Kings vs Portland Trail Blazers_ Duop Reath (Pts+Rebs+Asts)_Abaixo de 25.5_1,85_Winner_41_14/04/2024_20:05
+New Orleans Pelicans vs Los Angeles Lakers_ Brandon Ingram (Points)_Acima de 15.5_1,96_Loser_26_14/04/2024_20:07
+New Orleans Pelicans vs Los Angeles Lakers_ Anthony Davis (Rebounds)_Acima de 13.5_2,02_Loser_24_14/04/2024_19:29
+Memphis Grizzlies vs Denver Nuggets_ Jake LaRavia (Rebounds)_Abaixo de 5.5_2,12_Winner_22_14/04/2024_19:30
+Sacramento Kings vs Portland Trail Blazers_ Duop Reath (Points)_Abaixo de 17.5_1,78_Winner_32_14/04/2024_20:06
+Sacramento Kings vs Portland Trail Blazers_ Domantas Sabonis (Pts+Rebs+Asts)_Acima de 38.5_1,85_Loser_25_14/04/2024_16:01
+Sacramento Kings vs Portland Trail Blazers_ De'Aaron Fox (Assists)_Acima de 5.5_1,92_Loser_25_14/04/2024_16:25
+Minnesota Timberwolves vs Phoenix Suns_ Jusuf Nurkic (Pts+Rebs+Asts)_Acima de 22.5_1,82_Loser_42_14/04/2024_18:07
+Minnesota Timberwolves vs Phoenix Suns_ Jusuf Nurkic (Points)_Acima de 8.5_2,00_Loser_25_14/04/2024_19:34
+Indiana Pacers vs Atlanta Hawks_ T.J. McConnell (Points)_Abaixo de 12.5_1,88_Loser_25_14/04/2024_16:26
+Indiana Pacers vs Atlanta Hawks_ Pascal Siakam (Assists)_Acima de 3.5_2,35_Loser_25_14/04/2024_17:21
+Philadelphia 76ers vs Brooklyn Nets_ Cam Thomas (Assists)_Acima de 3.5_1,96_Loser_26_14/04/2024_13:37
+Miami Heat vs Toronto Raptors_ Jimmy Butler (Assists)_Acima de 5.5_2,12_Loser_22_14/04/2024_17:49
+Los Angeles Clippers vs Utah Jazz_ Luka Samanic (Pts+Rebs+Asts)_Abaixo de 21.5_1,96_Winner_36_13/04/2024_00:17
+Los Angeles Clippers vs Utah Jazz_ Ivica Zubac (Pts+Rebs+Asts)_Abaixo de 25.5_1,87_Winner_25_13/04/2024_01:46
+Los Angeles Clippers vs Utah Jazz_ Ivica Zubac (Rebounds)_Abaixo de 10.5_1,92_Winner_27_13/04/2024_00:18
+Los Angeles Clippers vs Utah Jazz_ Ivica Zubac (Points)_Abaixo de 12.5_2,00_Winner_25_13/04/2024_01:46
+Golden State Warriors vs New Orleans Pelicans_ Jonas Valanciunas (Rebounds)_Acima de 7.5_1,79_Loser_31_12/04/2024_20:44
+Golden State Warriors vs New Orleans Pelicans_ Jonas Valanciunas (Points)_Acima de 10.5_1,96_Loser_26_12/04/2024_20:44
+Portland Trail Blazers vs Houston Rockets_ Scoot Henderson (Assists)_Abaixo de 9.5_1,77_Winner_32_12/04/2024_15:02
+Portland Trail Blazers vs Houston Rockets_ Deandre Ayton (Pts+Rebs+Asts)_Abaixo de 40.5_1,72_Winner_48_12/04/2024_14:48
+Memphis Grizzlies vs Los Angeles Lakers_ D'Angelo Russell (Pts+Rebs+Asts)_Acima de 25.5_1,92_Loser_38_12/04/2024_21:26
+Memphis Grizzlies vs Los Angeles Lakers_ D'Angelo Russell (Points)_Acima de 15.5_1,74_Loser_33_12/04/2024_20:35
+Oklahoma City Thunder vs Milwaukee Bucks_ Luguentz Dort (Pts+Rebs+Asts)_Abaixo de 17.5_2,07_Winner_32_13/04/2024_00:27
+Oklahoma City Thunder vs Milwaukee Bucks_ Luguentz Dort (Points)_Abaixo de 12.5_1,91_Winner_27_13/04/2024_00:21
+Oklahoma City Thunder vs Milwaukee Bucks_ Khris Middleton (Pts+Rebs+Asts)_Abaixo de 32.5_1,87_Winner_40_12/04/2024_22:09
+Oklahoma City Thunder vs Milwaukee Bucks_ Khris Middleton (Points)_Abaixo de 20.5_1,81_Winner_30_12/04/2024_22:08
+Oklahoma City Thunder vs Milwaukee Bucks_ Jalen Williams (Pts+Rebs+Asts)_Abaixo de 28.5_2,07_Winner_32_13/04/2024_00:27
+Oklahoma City Thunder vs Milwaukee Bucks_ Jalen Williams (Assists)_Abaixo de 4.5_2,17_Loser_21_13/04/2024_00:27
+Oklahoma City Thunder vs Milwaukee Bucks_ Chet Holmgren (Pts+Rebs+Asts)_Abaixo de 26.5_2,07_Loser_32_13/04/2024_00:41
+San Antonio Spurs vs Denver Nuggets_ Tre Jones (Assists)_Acima de 6.5_2,12_Winner_22_12/04/2024_15:01
+Miami Heat vs Toronto Raptors_ Tyler Herro (Pts+Rebs+Asts)_Abaixo de 33.5_1,96_Winner_36_13/04/2024_00:31
+San Antonio Spurs vs Denver Nuggets_ Michael Porter Jr. (Pts+Rebs+Asts)_Abaixo de 23.5_2,07_Winner_32_12/04/2024_18:18
+Miami Heat vs Toronto Raptors_ Kelly Olynyk (Rebounds)_Abaixo de 6.5_2,07_Loser_34_13/04/2024_00:21
+New York Knicks vs Brooklyn Nets_ Mikal Bridges (Pts+Rebs+Asts)_Acima de 17.5_1,77_Loser_45_12/04/2024_23:18
+New York Knicks vs Brooklyn Nets_ Mikal Bridges (Points)_Acima de 12.5_1,96_Loser_26_12/04/2024_23:02
+New York Knicks vs Brooklyn Nets_ Josh Hart (Pts+Rebs+Asts)_Acima de 28.5_1,79_Loser_44_13/04/2024_00:10
+New York Knicks vs Brooklyn Nets_ Jalen Brunson (Pts+Rebs+Asts)_Abaixo de 43.5_1,82_Winner_42_12/04/2024_23:17
+Philadelphia 76ers vs Orlando Magic_ Wendell Carter Jr. (Pts+Rebs+Asts)_Abaixo de 21.5_1,89_Winner_39_12/04/2024_23:37
+Philadelphia 76ers vs Orlando Magic_ Paolo Banchero (Assists)_Abaixo de 5.5_1,92_Loser_27_12/04/2024_23:43
+Philadelphia 76ers vs Orlando Magic_ Jalen Suggs (Assists)_Abaixo de 3.5_1,69_Winner_36_12/04/2024_23:43
+Cleveland Cavaliers vs Indiana Pacers_ Darius Garland (Assists)_Abaixo de 7.5_1,87_Winner_28_12/04/2024_17:02
+Boston Celtics vs Charlotte Hornets_ Miles Bridges (Rebounds)_Acima de 6.5_1,96_Loser_26_12/04/2024_17:23
+Sacramento Kings vs New Orleans Pelicans_ Jonas Valanciunas (Pts+Rebs+Asts)_Acima de 22.5_1,92_Winner_75_11/04/2024_23:57
+Sacramento Kings vs New Orleans Pelicans_ Jonas Valanciunas (Points)_Acima de 10.5_1,91_Winner_27_11/04/2024_20:13
+Portland Trail Blazers vs Golden State Warriors_ Jonathan Kuminga (Pts+Rebs+Asts)_Abaixo de 28.5_1,85_Winner_41_11/04/2024_22:39
+Portland Trail Blazers vs Golden State Warriors_ Jonathan Kuminga (Rebounds)_Abaixo de 5.5_1,92_Loser_27_12/04/2024_00:33
+Portland Trail Blazers vs Golden State Warriors_ Deandre Ayton (Pts+Rebs+Asts)_Abaixo de 39.5_1,69_Winner_50_11/04/2024_13:57
+Portland Trail Blazers vs Golden State Warriors_ Deandre Ayton (Rebounds)_Abaixo de 11.5_2,12_Winner_22_12/04/2024_02:46
+Utah Jazz vs Houston Rockets_ Jalen Green (Assists)_Acima de 4.5_1,96_Loser_26_11/04/2024_15:49
+Utah Jazz vs Houston Rockets_ Cam Whitmore (Points)_Acima de 12.5_1,96_Winner_26_12/04/2024_00:45
+Boston Celtics vs New York Knicks_ Jrue Holiday (Pts+Rebs+Asts)_Abaixo de 19.5_1,87_Winner_40_11/04/2024_22:41
+Boston Celtics vs New York Knicks_ Jayson Tatum (Pts+Rebs+Asts)_Abaixo de 34.5_1,82_Winner_42_11/04/2024_22:40
+Boston Celtics vs New York Knicks_ Jayson Tatum (Assists)_Acima de 4.5_2,02_Winner_24_11/04/2024_22:59
+Detroit Pistons vs Chicago Bulls_ DeMar DeRozan (Points)_Acima de 27.5_1,78_Winner_32_11/04/2024_21:36
+Detroit Pistons vs Chicago Bulls_ Coby White (Pts+Rebs+Asts)_Acima de 30.5_1,82_Loser_42_11/04/2024_21:37
+Detroit Pistons vs Chicago Bulls_ Coby White (Points)_Acima de 20.5_1,74_Loser_33_11/04/2024_21:37
+Denver Nuggets vs Minnesota Timberwolves_ Mike Conley (Assists)_Abaixo de 5.5_1,85_Winner_29_11/04/2024_01:07
+Denver Nuggets vs Minnesota Timberwolves_ Anthony Edwards (Rebounds)_Acima de 4.5_1,65_Loser_38_10/04/2024_17:58
+Milwaukee Bucks vs Orlando Magic_ Patrick Beverley (Pts+Rebs+Asts)_Abaixo de 18.5_2,02_Loser_34_11/04/2024_00:00
+Milwaukee Bucks vs Orlando Magic_ Paolo Banchero (Assists)_Abaixo de 5.5_2,02_Loser_24_10/04/2024_18:37
+Milwaukee Bucks vs Orlando Magic_ Moritz Wagner (Pts+Rebs+Asts)_Abaixo de 16.5_1,96_Winner_36_11/04/2024_00:57
+Milwaukee Bucks vs Orlando Magic_ Markelle Fultz (Pts+Rebs+Asts)_Abaixo de 19.5_1,92_Winner_38_11/04/2024_00:58
+Milwaukee Bucks vs Orlando Magic_ Markelle Fultz (Points)_Abaixo de 11.5_2,05_Winner_23_11/04/2024_00:58
+Milwaukee Bucks vs Orlando Magic_ Malik Beasley (Pts+Rebs+Asts)_Abaixo de 16.5_2,02_Winner_34_11/04/2024_00:46
+Milwaukee Bucks vs Orlando Magic_ Jalen Suggs (Assists)_Abaixo de 3.5_2,12_Winner_22_11/04/2024_00:41
+Milwaukee Bucks vs Orlando Magic_ Brook Lopez (Pts+Rebs+Asts)_Abaixo de 21.5_1,92_Winner_38_11/04/2024_00:42
+Milwaukee Bucks vs Orlando Magic_ Brook Lopez (Rebounds)_Abaixo de 5.5_2,12_Winner_22_11/04/2024_00:41
+Oklahoma City Thunder vs San Antonio Spurs_ Tre Jones (Points)_Abaixo de 14.5_1,84_Winner_29_11/04/2024_00:47
+Miami Heat vs Dallas Mavericks_ PJ Washington (Points)_Acima de 11.5_1,91_Winner_43_10/04/2024_22:58
+Miami Heat vs Dallas Mavericks_ Jimmy Butler (Pts+Rebs+Asts)_Acima de 31.5_1,77_Loser_45_10/04/2024_15:29
+Miami Heat vs Dallas Mavericks_ Jimmy Butler (Points)_Acima de 21.5_1,78_Loser_30_10/04/2024_15:28
+Brooklyn Nets vs Toronto Raptors_ Immanuel Quickley (Pts+Rebs+Asts)_Acima de 31.5_1,85_Winner_41_10/04/2024_11:37
+Miami Heat vs Dallas Mavericks_ Bam Adebayo (Pts+Rebs+Asts)_Acima de 32.5_1,92_Loser_38_10/04/2024_14:33
